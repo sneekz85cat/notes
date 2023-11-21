@@ -28,3 +28,6 @@ Secondly, use time management techniques like the Pomodoro Technique to break do
 
 Second, use time management techniques like the Pomodoro Technique to break up your day into focused work periods. Set a timer for 25 minutes, work on a task, then take a short break. You can repeat this process several times throughout the day, allowing your brain to focus and maintain its energy. Using this method can help prevent burnout and make your workflow more enjoyable. 
  .Finally, stay organised by using version control systems like Git and using code editors that support them.This will make it easier to track your progress, collaborate with others,and ensure your code is clean and well-structured.By prioritising tasks ,managing yourtime effectively, using the right tools,you can become a more effective programmer and achieve your goals more quickly.
+
+# 2023-11-21
+- "Keep it simple, stupid!"
