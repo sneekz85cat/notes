@@ -36,3 +36,6 @@ Second, use time management techniques like the Pomodoro Technique to break up y
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of anticipating and accounting for potential mistakes or misunderstandings in order to create more robust and effective programs.
+
+# 2023-11-23
+- "Keep it simple, stupid!"
