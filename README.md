@@ -64,3 +64,6 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 Second, use time management techniques to plan out your day or week. Create a schedule for yourself, dividing your available time into blocks for specific tasks. Allocate time for breaks and downtime, as well, to keep yourself from getting overwhelmed. Following a structured schedule can help to reduce stress and improve your overall work-life balance. 
  - 来自NLP的机器回答
+
+# 2023-11-30
+- "Every line of code you write is a liability. It has to be maintained, and it can break in the future. So, always strive to write less code. The fewer lines of code you have, the fewer opportunities there are for bugs to creep in, and the easier your code will be to maintain over time."
