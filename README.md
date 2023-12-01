@@ -67,3 +67,6 @@ Second, use time management techniques to plan out your day or week. Create a sc
 
 # 2023-11-30
 - "Every line of code you write is a liability. It has to be maintained, and it can break in the future. So, always strive to write less code. The fewer lines of code you have, the fewer opportunities there are for bugs to creep in, and the easier your code will be to maintain over time."
+
+# 2023-12-01
+- "Keep it simple, stupid!"
