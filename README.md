@@ -165,3 +165,6 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 6. Stay organized: Keep your workspace and code clean and organized to reduce the risk of making mistakes. Following good coding practices, such as using version control and organizing your code well, will also help to keep things running smoothly.     
 7. Learn and grow: As a programmer, your skills and knowledge will continue to grow over time, so be open to learning new techniques and tools. Not only will this make you a better programmer but it can also lead to new ideas and innovations inyour work
 8. Collaborate: Programming is a collaborative process, whether you are working with a team or solo. Communicating with others and sharing your ideas can leadto new insights and solutions.
+
+# 2023-12-23
+- "Keep it simple, stupid!"
