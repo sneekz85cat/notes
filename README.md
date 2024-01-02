@@ -202,3 +202,8 @@ Second, always plan beforehand. When starting a new project or working on a comp
 "Premature optimization is the root of all evil." — Donald Knuth
 
 In fewer than 200 words: This quote by computer scientist Donald Knuth reminds us that focusing on optimizing code too early in the development process can lead to unnecessary complexity, harder-to-maintain code, and might not actually solve the real performance bottlenecks. It's more important to first write clear, correct, and maintainable code, and then optimize only when profiling identifies specific areas where improvement is genuinely needed.
+
+# 2024-01-02
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, readable, and maintainable code first; optimize only when necessary, after profiling and identifying bottlenecks." 
+
+In other words, instead of spending time猜测并优化可能的性能问题，先确保代码的清晰性和正确性。只有在对程序运行分析并明确知道哪里是性能瓶颈后，才值得投入精力去优化这些特定部分。
