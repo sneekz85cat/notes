@@ -249,3 +249,6 @@ One way to achieve this is by setting aside time each week to read and research 
 
 # 2024-01-11
 - "Keep it simple, stupid!"
+
+# 2024-01-12
+- "Keep it simple, stupid!"
