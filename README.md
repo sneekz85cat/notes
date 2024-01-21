@@ -306,3 +306,6 @@ This quote emphasizes the importance of not getting bogged down by trying to wri
 5. Learn to say "no" to tasks that are outside your scope or don't align with your goals.    
 6. Stay up-to-date with technology and programming languages. Being familiar with new tools and techniques can make you a more valuable asset to your team or organization.     
 7. Don'ts: Procrastinate, avoid tasks you don’t like, work long hours without breaks, expect others to do your job for you. These behaviors will hinder your productivity and efficiency.
+
+# 2024-01-21
+- "Keep it simple, stupid!"
