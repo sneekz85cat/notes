@@ -485,3 +485,8 @@ Secondly, planning ahead is essential. Before starting a new project, create a p
 
 In more detail:
 "Write code that is easy to understand and modify. Optimization without a clear understanding of where performance issues lie can lead to overly complex solutions and introduce new bugs. Always measure before optimizing. Modern hardware and software architectures might mean that your intuition about what's slow isn't correct. Keep your code simple and elegant; it's easier to optimize well-designed, straightforward code than to untangle spaghetti code."
+
+# 2024-02-29
+- Today's programming wisdom: "Code is read more often than it's written. Strive for clarity and readability in your code as if it were a well-written story, because tomorrow, the one struggling to understand it might be you." 
+
+In essence, this advice emphasizes that during the software development process, while efficiency and functionality are crucial, the maintainability and comprehensibility of your codebase are equally important. Writing clean, self-explanatory code saves time and reduces errors in the long run, benefiting both yourself and your collaborators.
